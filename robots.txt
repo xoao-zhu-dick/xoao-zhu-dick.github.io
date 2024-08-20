@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://xoao-zhu-dick.github.io/sitemap.xml
